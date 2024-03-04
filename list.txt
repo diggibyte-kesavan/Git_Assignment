@@ -5,3 +5,6 @@ list =[1,2,3,4,5]
 => end
 => this line for fetch
 => this line for pull 
+
+
+question 2:
