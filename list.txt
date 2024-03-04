@@ -4,3 +4,4 @@ list =[1,2,3,4,5]
 => list allow duplicates
 => end
 => this line for fetch
+=> this line for pull 
